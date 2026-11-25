@@ -7,7 +7,7 @@ import * as path from "node:path";
 // (the ex), the situation (a split household) and the event (they never
 // cancelled the plan) — and the punchline is the network itself, which
 // the passer-by is staring at while reading "This".
-const ENTRY = "MyExStillPaysForThis";
+const ENTRY = "MarkPaysThis_WifeThinksItsHisGym";
 
 const outDir = process.env.MAKEFUN_OUTPUT_DIR || "/output";
 fs.mkdirSync(outDir, { recursive: true });
